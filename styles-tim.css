@@ -1,0 +1,39 @@
+* {  }
+
+header{
+
+}
+
+h1{
+  background-color: #27327b;
+  color: white;
+  line-height: 100px;
+  text-align: center;
+  font-family: arial;
+  width: 600px
+}
+
+h2{
+  background-color: #ea0437;
+  color: white;
+  line-height: 50px;
+  text-align: center;
+  font-family: arial;
+  width: 600px
+}
+
+p{
+  font-family: arial;
+  text-align: center;
+  width: 600px;
+  text-align: center;
+}
+
+img{
+  width: 600px
+}
+
+.mainContainer{
+  margin-left: 150px;
+  margin-right: 150px;
+}

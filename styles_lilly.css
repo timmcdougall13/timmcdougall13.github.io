@@ -1,0 +1,21 @@
+h1{
+background-color: #D22800;
+color: black;
+line-height: 100px;
+text-align: center;
+}
+body{
+  background-color: #010B65;
+}
+h3{
+text-align: center;
+}
+a{
+color: black;
+}
+
+img{
+  display: block;
+  margin: auto;
+  max-width: 200px;
+}
