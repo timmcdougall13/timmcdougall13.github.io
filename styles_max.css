@@ -34,3 +34,16 @@ nav a{
   color: white;
   text-transform: full-width;
 }
+
+a:link, a:visited {
+    background-color: #27327b;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: #3F3FBF;
+}
