@@ -15,8 +15,8 @@ h2{
   color: white;
   line-height: 50px;
   text-align: center;
-
 }
+
 * { font-family: helvetica; }
 * {
   padding-right: 75px;
@@ -46,4 +46,10 @@ a:link, a:visited {
 
 a:hover, a:active {
     background-color: #3F3FBF;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
